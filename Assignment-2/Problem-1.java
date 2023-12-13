@@ -16,7 +16,7 @@ public class Calculate {
 
 public class Computation {
     public static void main(String[] args) {
-        Computation calculate = new Calculator();
+        Calculate calculate = new Calculator();
         calculate.firstOperand = 10; 
         calculate.secondOperand = 20.5; 
         calculate.convertedUppercaseText = "hello"; 
