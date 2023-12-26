@@ -1,0 +1,3 @@
+interface DeviceFactory {
+    Device createDevice();
+}
